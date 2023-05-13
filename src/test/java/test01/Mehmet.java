@@ -27,4 +27,26 @@ public class Mehmet {
         System.out.println("Hello World");
     }
 
+    /* after changing something in your codes
+    git add .
+    git commit -m "v2"
+    git push
+
+
+    before switching to another branch we need to commit
+    git add .
+    git commit -m "version"
+
+    to pull master branch first we neet to switch to master branch
+    git checkout master
+
+    master has been changed by team members so we need to pull ( download) master branch from github ( remote) accout
+    git pull
+
+
+
+
+
+     */
+
 }
