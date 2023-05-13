@@ -33,6 +33,10 @@ public class Mehmet {
     git push
 
 
+****
+
+    we want to download everybodies codes to our branch in our local computer
+
     before switching to another branch we need to commit
     git add .
     git commit -m "version"
