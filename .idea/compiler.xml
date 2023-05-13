@@ -9,5 +9,8 @@
         <module name="com.TestTeam112" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com.TestTeam112" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

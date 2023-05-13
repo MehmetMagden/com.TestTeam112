@@ -48,6 +48,21 @@ public class Mehmet {
     git pull
 
 
+    ***
+
+    now we are planing to merge every from master o our branch
+    first we need to swtich to our branch again ( my branch name is mehmet so i will use mehmet, everybdoy should use their own names)
+    git checkout mehmet
+
+    to check again // there should be a star on the left side of your branch name
+    git branch
+
+// to take everything from master branch to your own branch
+    git merge master
+
+
+
+
 
 
 
